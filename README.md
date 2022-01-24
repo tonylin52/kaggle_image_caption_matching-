@@ -1,4 +1,4 @@
-# image-text retrieval 
+# kaggle_image_caption_matching team：新东方人工智能研究院
 
 
  [Scene Graph Benchmark Repo](https://github.com/microsoft/scene_graph_benchmark) has been released. Use the code there to extract image features with VinVL pretrained models. <br/>
