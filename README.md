@@ -19,11 +19,11 @@ pip install -r requirements.txt
 ```
 
 ## test:
-1 Refer to https://github.com/microsoft/scene_graph_benchmark, setup envs.
-2 Extract image feature using https://github.com/microsoft/scene_graph_benchmark model and weights.
-3 Pair every extracted feature with corresponding image id and caption_title_and_reference_description as dict.
-4 Save the dict as test_captions.pt.
-5 Run infer
+1 Refer to https://github.com/microsoft/scene_graph_benchmark, setup envs.  
+2 Extract image feature using https://github.com/microsoft/scene_graph_benchmark model and weights.  
+3 Pair every extracted feature with corresponding image id and caption_title_and_reference_description as dict.  
+4 Save the dict as test_captions.pt.  
+5 Run infer  
 ```bash
 sh infer.sh
 ```
